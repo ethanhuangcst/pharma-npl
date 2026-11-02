@@ -1,0 +1,12 @@
+.DS_Store
+.workbuddy/
+.codebuddy/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Downloaded reference documents and extracted pages remain local.
+methods-evidence/
+npl-sources/
